@@ -1,5 +1,4 @@
 # Teste_02
- MarshFfeco/Teste-02
 
 Utilizando conceitos básicos do Unity.
 Using basic Unity concepts.
